@@ -9,7 +9,7 @@
 <img src="/assets/r.png" width="50" height="50"/>
 <img src="/assets/android.png" width="50" height="50"/>
 <img src="/assets/visual.png" width="50" height="50"/>
-<img src="/assets/azure.png" width="50" height="50"/>
+<img src="/assets/aws.png" width="50" height="50"/>
 <img src="/assets/linux.png" width="50" height="50"/>
 </div>
 
